@@ -8,6 +8,7 @@ async function config() {
     lang: "en-US",
     title: "Clark Cui",
     description: "Home of Clark Cui",
+    ignoreDeadLinks: true,
     head: [
       [
         "link",
