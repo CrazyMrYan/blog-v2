@@ -21,7 +21,7 @@ This is a blog theme used vitepress to build. You could [click here](https://vis
 ## Start
 
 ```shell
-npx degit clark-cui/vitepress-blog-zaun my-vitepress-blog
+npx degit Jason Yan/vitepress-blog-zaun my-vitepress-blog
 cd my-vitepress-blog
 pnpm i # If you didn't install pnpm,you can run: npm install -g pnpm
 pnpm dev
