@@ -8,13 +8,13 @@ import { Feed } from "feed";
 
 const DOMAIN = "https://clark-cui.top";
 const AUTHOR = {
-  name: "Clark Cui",
+  name: "Jason Yan",
   email: "rongchuancui@gmail.com",
   link: DOMAIN,
 };
 const OPTIONS: FeedOptions = {
-  title: "Clark Cui",
-  description: "Clark Cui' Blog",
+  title: "Jason Yan",
+  description: "Jason Yan' Blog",
   id: `${DOMAIN}/`,
   link: `${DOMAIN}/`,
   copyright: "MIT License",

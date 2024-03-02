@@ -6,8 +6,8 @@ import mathjax3 from "markdown-it-mathjax3";
 async function config() {
   return {
     lang: "en-US",
-    title: "Clark Cui",
-    description: "Home of Clark Cui",
+    title: "Jason Yan",
+    description: "Home of Jason Yan",
     ignoreDeadLinks: true,
     head: [
       [
@@ -22,7 +22,7 @@ async function config() {
         "meta",
         {
           name: "author",
-          content: "Clark Cui",
+          content: "Jason Yan",
         },
       ],
       [
@@ -36,7 +36,7 @@ async function config() {
         "meta",
         {
           property: "og:description",
-          content: "Home of Clark Cui",
+          content: "Home of Jason Yan",
         },
       ],
     ],
