@@ -43,6 +43,7 @@ async function config() {
     // cleanUrls: "with-subfolders",
     lastUpdated: false,
     themeConfig: {
+      validate: false,
       logo: "/horse.svg",
       avator: "/avator.png",
       search: {
@@ -68,7 +69,7 @@ async function config() {
         },
         {
           text: "🔥RSS",
-          link: "https://Jason Yan.top/feed.xml",
+          link: "http://giao.club/",
         },
       ],
       socialLinks: [

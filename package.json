@@ -23,6 +23,8 @@
     "serve": "vitepress serve "
   },
   "dependencies": {
-    "gitalk": "^1.8.0"
+    "@vue/server-renderer": "^3.4.21",
+    "gitalk": "^1.8.0",
+    "vue": "^3.4.21"
   }
 }
