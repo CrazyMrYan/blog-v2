@@ -69,7 +69,7 @@ async function config() {
         },
         {
           text: "🔥RSS",
-          link: "http://giao.club/",
+          link: "http://giao.club/feed.xml",
         },
       ],
       socialLinks: [
