@@ -44,3 +44,7 @@
 .VPDocOutlineDropdown {
   display: none !important;
 }
+
+.VPDoc img {
+  margin: 0 auto;
+}
