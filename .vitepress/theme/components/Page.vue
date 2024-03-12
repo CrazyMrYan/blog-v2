@@ -9,7 +9,7 @@
         <div class="title">{{ item.frontMatter.title }}</div>
         <div class="date">{{ transDate(item.frontMatter.date) }}</div>
       </div>
-      <img v-if="item.frontMatter.cover" :src="`/posts/${item.frontMatter.cover}`" alt="" srcset="">
+      <!-- <img v-if="item.frontMatter.cover" :src="`/posts/${item.frontMatter.cover}`" alt="" srcset=""> -->
     </a>
   </div>
   <div class="pagination">
