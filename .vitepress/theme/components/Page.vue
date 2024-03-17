@@ -150,7 +150,7 @@ const transDate = (date: string) => {
 }
 
 .blog {
-  width: 100%;
+  width: 90%;
   display: flex;
   border-radius: 10px;
   padding: 0 20px;

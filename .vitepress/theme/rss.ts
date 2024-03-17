@@ -24,8 +24,8 @@ const OPTIONS: FeedOptions = {
     rss: DOMAIN + "/feed.xml",
   },
   author: AUTHOR,
-  image: "https://giao.club/horse.svg",
-  favicon: "https://giao.club/horse.svg",
+  image: "https://giao.club/avator.png",
+  favicon: "https://giao.club/avator.png",
 };
 
 const markdown = MarkdownIt({

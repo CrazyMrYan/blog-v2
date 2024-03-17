@@ -15,7 +15,7 @@ async function config() {
         {
           rel: "icon",
           type: "image/svg",
-          href: "/horse.svg",
+          href: "/avator.png",
         },
       ],
       [
@@ -44,7 +44,7 @@ async function config() {
     lastUpdated: false,
     themeConfig: {
       validate: false,
-      logo: "/horse.svg",
+      logo: "/avator.png",
       avator: "/avator.png",
       search: {
         provider: "local",
