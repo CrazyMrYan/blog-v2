@@ -51,7 +51,7 @@ async function generateRSS() {
           const { data, content } = matter(raw);
           const html = markdown
             .render(content)
-            .replace('src="/', `src="${DOMAIN}/`);
+            .replaceAll('src="../public/images', `src="${DOMAIN}/assets/`);
 
           return {
             ...data,
