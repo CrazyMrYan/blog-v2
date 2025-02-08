@@ -5,6 +5,14 @@
       >Jason Yan</a
     >
     | Copyright © 2019-{{ date }} | MIT License
+    <a
+      href="https://beian.miit.gov.cn/"
+      target="_blank"
+      title="湘ICP备2022013329号-1"
+      data-v-3af3d229
+    >
+      湘ICP备2022013329号-1
+    </a>
   </footer>
 </template>
 <script lang="ts" setup>
