@@ -4,7 +4,7 @@
       <span>Hi, I'm Jason Yan 👋</span>
     </h1>
     <p class="description">
-      A frontend developer(he/him) who is building in web3.
+      Bug制造者，知识杂食家，偶尔在代码里种下荒诞，收获自嘲。
     </p>
   </div>
 </template>
