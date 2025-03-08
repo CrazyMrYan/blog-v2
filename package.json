@@ -21,11 +21,15 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "serve": "vitepress serve",
-    "create-post": "node scripts/create-post.js"
+    "create-post": "node scripts/create-post.js",
+    "pull-img": "node scripts/pull-img.js --filePath"
   },
   "dependencies": {
     "@vue/server-renderer": "^3.4.21",
+    "axios": "^1.8.2",
     "gitalk": "^1.8.0",
-    "vue": "^3.4.21"
+    "marked": "^15.0.7",
+    "vue": "^3.4.21",
+    "yargs": "^17.7.2"
   }
 }
