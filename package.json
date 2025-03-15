@@ -2,7 +2,7 @@
   "name": "viteDoc",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Jason Yan <cuirongchuan@163.com>",
+  "author": "Jason Yan <crazymryan@gmail.com>",
   "license": "MIT",
   "type": "module",
   "devDependencies": {
